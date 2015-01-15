@@ -1,4 +1,4 @@
-% Eating Habits
+% Eating Habits FTW!!
 % Jane Doe
 % March 22, 2005
 
