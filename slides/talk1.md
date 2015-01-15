@@ -1,6 +1,6 @@
 % The Frustrated Developer
 % Denae Ford and Anthony Elliott
-% Jaaanuary 20, 2015
+% Jaaanuary 20, 20157890
 
 # In the morning
 
@@ -11,7 +11,7 @@
 -------     ------ ----------   -------
      12     12        12            12
     123     123       123          123
-      1     2          1             1
+      1     1          1             1
     456     78         910          12
 	 12     12        12            12
 	
