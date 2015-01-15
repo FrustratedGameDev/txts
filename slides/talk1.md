@@ -1,6 +1,6 @@
-% Eating Habits FTW!!
-% Jane Doe
-% March 22, 2005
+% The Frustrated Developer
+% Denae Ford and Anthoney Elliot
+% January 20, 2015
 
 # In the morning
 
