@@ -1,5 +1,5 @@
 % The Frustrated Developer
-% Denae Ford and Anthoney Elliot
+% Denae Ford and Anthony Elliott
 % January 20, 2015
 
 # In the morning
