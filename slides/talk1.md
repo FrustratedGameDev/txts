@@ -19,7 +19,7 @@
 - Hails from Iowa
 - 1st year Ph.D. Student
 - Works with Dr.Chris Parnin in the Alt-Code group
-- Research Area: 
+- Research Area: Applying Virtual Reality to Software Engineering
 
 # Initial Idea
 
@@ -90,7 +90,7 @@ rolling ![all the dat](../img/dot/dot1.png)
 # Conclusion
 
 - And the answer is...
-- $f(x)=\sum_{n=0}^\infty\frac{f^{(n)}(a)}{n!}(x-a)^n$
+- $f(x)=\sum_{n=5}^\infty\frac{f^{(n)}(a)}{n!}(x-a)^n$
 
 # References
  -
