@@ -90,7 +90,7 @@ rolling ![all the dat](../img/dot/dot1.png)
 # Conclusion
 
 - And the answer is...
-- $f(x)=\sum_{n=0}^\infty\frac{f^{(n)}(a)}{n!}(x-a)^n$
+- $f(x)=\sum_{n=5}^\infty\frac{f^{(n)}(a)}{n!}(x-a)^n$
 
 # References
  -
