@@ -16,6 +16,8 @@
 - Research Area: Identifying the causes of frustration for Software Developers
 
 # Anthony Elliott
+<img align=right src="http://www.gravatar.com/avatar/76a3c56f9b61ae2344d8787b85730368.png">
+
 - Hails from Iowa
 - 1st year Ph.D. Student
 - Works with Dr.Chris Parnin in the Alt-Code group
