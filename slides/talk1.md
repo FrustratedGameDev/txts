@@ -7,6 +7,9 @@
 - Here is a picture of both of us... maybe 
 
 # Denae Ford
+
+<img align=right src="../img/denaeprofile.png">
+
 - Hails from Landover, MD
 - 1st year Ph.D. Student
 - Works with Dr. Chris Parnin in the Alt-Code group
