@@ -2,10 +2,6 @@
 % Denae Ford and Anthony Elliott
 % January 20, 2015
 
-# Introductions
-
-- Here is a picture of both of us... maybe 
-
 # Denae Ford
 
 <img align=right src="../img/denaeprofile.png">
