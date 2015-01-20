@@ -1,8 +1,28 @@
-% The Frustrated Developer
+% The Frustrated Game Developer
 % Denae Ford and Anthony Elliott
-% Jaaanuary 20, 20157890
+% January 20, 2015
 
-# In the morning
+#Introductions
+
+- Here is a picture of both of us... maybe 
+
+#Denae Ford
+- Hails from Landover, MD
+- 1st year Ph.D. Student
+- Works with Dr. Chris Parnin in the Alt-Code group
+- Research Area: Identifying the causes of frustration for Software Developers
+
+#Anthony Elliott
+- Hails from Iowa
+- 1st year Ph.D. Student
+- Works with Dr.Chris Parnin in the Alt-Code group
+- Research Area: 
+
+# Initial Idea
+
+- As First year Ph.D. Students we want to make the best of our time.
+- How about combining our research efforts
+- Resulting in: Frustration of Software Developers
 
 
 <center>
@@ -47,3 +67,4 @@ rolling ![all the dat](../img/dot/dot1.png)
 - $f(x)=\sum_{n=0}^\infty\frac{f^{(n)}(a)}{n!}(x-a)^n$
 
 # References
+ - Can be listed
