@@ -19,7 +19,7 @@
 - Hails from Iowa
 - 1st year Ph.D. Student
 - Works with Dr.Chris Parnin in the Alt-Code group
-- Research Area: 
+- Research Area: Applying Virtual Reality to Software Engineering
 
 # Initial Idea
 
