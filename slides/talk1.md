@@ -2,17 +2,17 @@
 % Denae Ford and Anthony Elliott
 % January 20, 2015
 
-#Introductions
+# Introductions
 
 - Here is a picture of both of us... maybe 
 
-#Denae Ford
+# Denae Ford
 - Hails from Landover, MD
 - 1st year Ph.D. Student
 - Works with Dr. Chris Parnin in the Alt-Code group
 - Research Area: Identifying the causes of frustration for Software Developers
 
-#Anthony Elliott
+# Anthony Elliott
 - Hails from Iowa
 - 1st year Ph.D. Student
 - Works with Dr.Chris Parnin in the Alt-Code group
@@ -24,6 +24,23 @@
 - How about combining our research efforts
 - Resulting in: Frustration of Software Developers
 
+# Project Proposal 
+
+- 
+-
+-
+
+# Project Details
+
+- More stuff here.
+
+# Progress Thus Far
+
+ We have been able to identify 3 Papers that we will base our literature review on.
+ 
+-
+-
+-
 
 <center>
 
