@@ -27,23 +27,28 @@
 - How about combining our research efforts
 - Resulting in: Frustration of Software Developers
 
-# Project Proposal 
+# Management Project Proposal 
 
-- 
--
--
+- Finding literature on what frustrates game developers
+- How do these frustrations stunt productivity?
+- What is being done to solve them?
 
 # Project Details
 
-- More stuff here.
+- For this project we have to perform an intense literature review
+- First we identify 3 seed papers
+- From those papers we identify a bank of abou 500+ papers that that relate to that topic.
 
 # Progress Thus Far
 
- We have been able to identify 3 Papers that we will base our literature review on.
- 
--
--
--
+ We have been able to identify 3 Papers that we will base our literature review on. 
+
+- Cowboys, Ankle Sprains, and Keepers of Quality: How Is Video Game Development Different from Software Development?
+- Six Learning Barriers in End-User Programming Systems
+- Game Development: Harder Than You Think
+
+# Challenges
+ - Finding papers of relevance to both 
 
 <center>
 
@@ -64,7 +69,8 @@ The ziffness of dorkies must:
 - Eat eggs
 - Drink coffee
 
-# In the evening
+
+# Some more stuff#
 
 As shown here:
 
@@ -87,4 +93,4 @@ rolling ![all the dat](../img/dot/dot1.png)
 - $f(x)=\sum_{n=0}^\infty\frac{f^{(n)}(a)}{n!}(x-a)^n$
 
 # References
- - Can be listed
+ -
