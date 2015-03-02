@@ -1,3 +1,5 @@
+# Bad Smells
+
 * Labels are applied and immediately removed from an issue
 * A milestone has no issues or few issues
 * A milestone was deleted (not able to finish the work in time?)
