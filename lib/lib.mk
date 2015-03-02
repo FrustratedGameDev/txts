@@ -72,6 +72,14 @@ $(Out)/slides/%.html : $(Raw)/slides/%.md
 	      -c        ../img/slidy.css \
               -o $@ $<
 
+$(Raw)/slides/%.md : $(Raw)/slides/%/*.md
+	@for doc in $^; \
+	do \
+		echo '\n\n' >> $${doc}; \
+		perl -0 -i -pe 's/\n+\Z/\n\n/' $${doc}; \
+	done;
+	cat $^ > $@
+
 $(Out)/img/dot/%.png : $(Raw)/dot/%.dot
 	dot -Tpng -o $@ $<
 
