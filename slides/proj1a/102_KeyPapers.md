@@ -1,4 +1,4 @@
-# Progress Thus Far
+# Key Papers
 
 We have been able to identify 4 papers that we will base our literature review on. 
 
