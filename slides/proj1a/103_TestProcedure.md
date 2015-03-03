@@ -5,3 +5,4 @@
 * Repertory grid has lots of dimensions and papers
 * Process is documented using GitHub labels
 * GitHub milestones are used to track at least some progress
+
