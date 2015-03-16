@@ -2,13 +2,26 @@
 % Denae Ford and Anthony Elliott
 % April 7, 2015
 
-#Management Track
+# What did the Management Track people have to do?
+
+* The goal of this project is to identify and compare General Software Developement to Games Development.
+* To do this we found problems, approaches, contributions, related work that discussed distinctive characteristics about both.
+* The recommended way to do connect all papers under some common themes was to use a Repertory Grid Analysis.
+* Repertory Grid Analysis - uses factor analysis to determine interpretations of an item.
+
+<img align="center" src="../img/repgrid.png">
+
+* Factors included papers that discussed Software Development in the games industry
+
+# Repertory Grid Analysis
 
 * Repertory Grid Analysis - uses factor analysis to determine interpretations of an item.
 
-<img align=center src="../img/repgrid.png">
+* Each row of this grid identifies a dimension that was found while reading the papers.
+	* A dimension was only added if it added value to the dataset already available.
+* Each column identifies an attribute which in this case is the names of the relevant papers.
 
-* Factors included papers that discussed Software Development in the games industry
+<img src= "../img/repgrid3.png">
 
 # Project Goals
 
@@ -29,9 +42,11 @@
 
 <img align=center src="../img/theprocess.png">
 
+* These rules were used as guidelines to determine what belonged in our repository
+
 # Key Papers
 
-We have been able to identify 4 papers that we will base our literature review on. 
+We have been identified 4 papers to be our key articles for our literature review.
 
 * Cowboys, Ankle Sprains, and Keepers of Quality: How Is Video Game Development Different from Software Development?
 * Game Development: Harder Than You Think
