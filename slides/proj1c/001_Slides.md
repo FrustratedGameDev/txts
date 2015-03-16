@@ -4,28 +4,28 @@
 
 #Management Track
 
-- Repertory Grid Analysis - uses factor analysis to determine interpretations of an item.
+* Repertory Grid Analysis - uses factor analysis to determine interpretations of an item.
 
 <img align=center src="../img/repgrid.png">
 
-- Factors included papers that discussed Software Development in the games industry
+* Factors included papers that discussed Software Development in the games industry
 
 # Project Goals
 
-- Find literature on what frustrates game developers
-- How do these frustrations stunt productivity?
-- What is being done to solve them?
+* Find literature on what frustrates game developers
+* How do these frustrations stunt productivity?
+* What is being done to solve them?
 
 
 # Project Details
 
-- For this project we have to perform an intense literature review
-- First we identify 3 seed papers
-- From those papers we identify a bank of about 500+ papers that that relate to that topic.
+* For this project we have to perform an intense literature review
+* First we identify 3 seed papers
+* From those papers we identify a bank of about 500+ papers that that relate to that topic.
 
 #Relevancy Rules 
 
-- In order to find articles a list of relevancy rules were determined:
+* In order to find articles a list of relevancy rules were determined:
 
 <img align=center src="../img/theprocess.png">
 
@@ -33,10 +33,10 @@
 
 We have been able to identify 4 papers that we will base our literature review on. 
 
-- Cowboys, Ankle Sprains, and Keepers of Quality: How Is Video Game Development Different from Software Development?
-- Game Development: Harder Than You Think
-- Idea Creation, Constructivism and Evolution
-- The 'Console Ship is Sinking' and What this Means for Indies
+* Cowboys, Ankle Sprains, and Keepers of Quality: How Is Video Game Development Different from Software Development?
+* Game Development: Harder Than You Think
+* Idea Creation, Constructivism and Evolution
+* The 'Console Ship is Sinking' and What this Means for Indies
 
 # Test Procedure
 
@@ -48,7 +48,7 @@ We have been able to identify 4 papers that we will base our literature review o
 
 #Issue Labels
 
-- In our github repo we used a set of tags to identify what stage we were in for the literature review as it relates to that paper.
+* In our github repo we used a set of tags to identify what stage we were in for the literature review as it relates to that paper.
 
 <img align=center src="../img/issuelabels.png">
 
@@ -64,18 +64,19 @@ We have been able to identify 4 papers that we will base our literature review o
 
 #Project Progress
 
-- During this first stage we have generated 2 grids with an online tool:
-
-- This first indicates the comparison of our seed papers
+* During this first stage we have generated 2 grids with an online tool:
+* This first indicates the comparison of our seed papers
 
 <img align=center src="../img/CSC510Grid1.png">
 
-- The second grid demonstrates the comparison found between Software Developers and Game Developers
+#Project Progress 
+ 
+* The second grid demonstrates the comparison found between Software Developers and Game Developers
 
 <img align=center src="../img/CSC510Grid2.png">
 
-- Since these diagrams have been created the first grid has expanded as our literature review has spread.
-- We will revisit the comparison of the developer grid upon the end of the project.
+* Since these diagrams have been created the first grid has expanded as our literature review has spread.
+* We will revisit the comparison of the developer grid upon the end of the project.
 
 
 # Bad Smells
@@ -88,7 +89,8 @@ We have been able to identify 4 papers that we will base our literature review o
 * If following a numerical process with labels, it is bad if issues skip any of the steps
 
 #References
-
+ 
+ *Use the references acknowledged by Menizes and list the papers reviewed.
 
 
 
