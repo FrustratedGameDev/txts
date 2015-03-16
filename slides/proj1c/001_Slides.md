@@ -9,7 +9,8 @@
 * The recommended way to do connect all papers under some common themes was to use a Repertory Grid Analysis.
 * Repertory Grid Analysis - uses factor analysis to determine interpretations of an item.
 
-<img align="center" src="../img/repgrid.png">
+
+<img align="center" src="../img/repgrid.png" alt="Picture of repgrid">
 
 * Factors included papers that discussed Software Development in the games industry
 
@@ -21,7 +22,7 @@
 	* A dimension was only added if it added value to the dataset already available.
 * Each column identifies an attribute which in this case is the names of the relevant papers.
 
-<img src= "../img/repgrid3.png">
+ <img src= "../img/repgrid3.png">
 
 # Project Goals
 
@@ -105,7 +106,9 @@ We have been identified 4 papers to be our key articles for our literature revie
 
 #References
  
- *Use the references acknowledged by Menizes and list the papers reviewed.
+Tracy Hall, Sarah Beecham, David Bowes, David Gray, and Steve Counsell. 2012. A Systematic Literature Review on Fault Prediction Performance in Software Engineering. IEEE Trans. Softw. Eng. 38, 6 (November 2012), 1276-1304.
 
+Barbara Kitchenham, O. Pearl Brereton, David Budgen, Mark Turner, John Bailey, and Stephen Linkman. 2009. Systematic literature reviews in software engineering - A systematic literature review. Inf. Softw. Technol. 51, 1 (January 2009), 7-15.
 
+Budgen, D., Burn, A. J., Brereton, O. P., Kitchenham, B. A. and Pretorius, R. (2011), Empirical evidence about the UML: a systematic literature review. Softw: Pract. Exper., 41: 363–392. doi: 10.1002/spe.1009
 
