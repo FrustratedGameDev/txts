@@ -2,6 +2,12 @@
 % Denae Ford and Anthony Elliott
 % April 7, 2015
 
+# Project Goals
+
+* Find literature on what frustrates game developers
+* How do these frustrations stunt productivity?
+* What is being done to solve them?
+
 # What did the Management Track people have to do?
 
 * The goal of this project is to identify and compare General Software Developement to Games Development.
@@ -14,6 +20,17 @@
 
 * Factors included papers that discussed Software Development in the games industry
 
+# Motivation
+* We wanted better understanding of this area
+* Current work lacking on qualitative lifestyle
+* Where should future research efforts be applied?
+
+# Literature Review
+* Collect lots of relevant papers
+* Determine the important papers
+* Read
+* Analyze
+
 # Repertory Grid Analysis
 
 * Repertory Grid Analysis - uses factor analysis to determine interpretations of an item.
@@ -24,18 +41,24 @@
 
  <img src= "../img/repgrid3.png">
 
-# Project Goals
 
-* Find literature on what frustrates game developers
-* How do these frustrations stunt productivity?
-* What is being done to solve them?
+# Methodology
 
+1. Determine seed papers
+2. Determine relevant papers
+3. Extract dimensions
+4. Define key articles
 
-# Project Details
+# 1: Seed Papers
+List them here
 
-* For this project we have to perform an intense literature review
-* First we identify 3 seed papers
-* From those papers we identify a bank of about 500+ papers that that relate to that topic.
+# 2: Determine relevant papers
+We used the following relevancy rules:
+
+1. Does the paper discuss the development process?
+2. Does the paper discuss game development?
+3. Does the paper discuss some form of the challenges or stress encountered by developers?
+4. Does the paper provide results of some form?
 
 #Relevancy Rules 
 
@@ -45,14 +68,19 @@
 
 * These rules were used as guidelines to determine what belonged in our repository
 
-# Key Papers
+# 3: Extract dimensions
+* Read abstracts
+* Read in depth
+* What happened if no dimension was extracted?
 
-We have been identified 4 papers to be our key articles for our literature review.
+# 4: Key Papers
+
+These papers were extremely important. We reviewed the references of all of these papers.
 
 * Cowboys, Ankle Sprains, and Keepers of Quality: How Is Video Game Development Different from Software Development?
 * Game Development: Harder Than You Think
-* Idea Creation, Constructivism and Evolution
 * The 'Console Ship is Sinking' and What this Means for Indies
+* International Game Developers Association. (2004). Quality of life white paper
 
 # Test Procedure
 
@@ -63,10 +91,27 @@ We have been identified 4 papers to be our key articles for our literature revie
 * GitHub milestones are used to track at least some progress
 
 #Issue Labels
+0. Determine if relevant
+1. Relevant Paper
+2. Summarize
+3. Adds Dimension
+4. Dimesion added to grid
 
 * In our github repo we used a set of tags to identify what stage we were in for the literature review as it relates to that paper.
 
 <img align=center src="../img/issuelabels.png">
+
+# Grid Iterations
+Talk about the progression of the grid here.
+
+# Dimensions Defined
+Talk about dimensions here 
+
+# Discussion
+Put content from Discussion section in paper here
+
+Will likely want to replace our following progress report with more interesting content from the paper.
+Will want to consider how much time we have to present.
 
 # Milestones
 
