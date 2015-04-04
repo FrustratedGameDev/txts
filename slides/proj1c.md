@@ -1,6 +1,6 @@
 % The Frustrated Game Developer
 % Denae Ford and Anthony Elliott
-% April 7, 2015
+% April 9, 2015
 
 # Project Goals
 
@@ -101,44 +101,94 @@ These papers were extremely important. We reviewed the references of all of thes
 
 <img align=center src="../img/issuelabels.png">
 
-# Grid Iterations
-Talk about the progression of the grid here.
+# Grid Iterations - Stage 1
+
+<img alt= "Repertory Grid Round" src= "../img/FinalRepGrid_0323_02.png">
+
+# Grid Interactions - Stage 2
+
+<img alt= "Repertory Grid Round 2" src= "../img/cluster_v2.png">
+
+# Grid Interactions - Stage 3
+
+<img alt ="Repertory Grid Version 3 without weights" src="../img/cluster_v3.png">
 
 # Dimensions Defined
-Talk about dimensions here 
+
+* Requirement Volatility: 
+
+ Requirement volatility describes how often the requirements of a project change. 
+
+* Quality of Life: 
+
+The pressures of crunch while on the job, maintaining a stable job, and the desire to remain at the company all can be encompassed into the quality of life in this career.
+
+* Creativity: 
+	
+ Creativity refers to the encouragement of developers to start from scratch with a project versus building on top of a current codebase. 
+
+* Developer Motivation:
+
+ With every profession there are certain aspects that draw interest. 
+   
+# Dimension Defined (cont.)
+
+* User Interactions:
+
+ The interactions of the users of the product can change the approach of how the product is approached. 
+
+* Work Ownership:
+      
+ It feels good to be acknowledged for the hardwork, responsibility, and accountability that is put into a product. 
+   
+* Testing:
+ 
+ There are circumstances where products have little to no documented testing strategy. 
+	
+* Team composition:
+
+(1)the variation of interactions between the team, (2)the viscosity , and (3)the number of projects a team may handle. 
+
+* Autonomy for Funding:
+
+ Traditonal funding sources( Venture Capitalists) and Crowdfunding
+
+# Weighted Dimensions
+
+* Weight adjustment tool
+
+<img alt="Image of the Weight Adjustment Tool" src="../img/WeightAdjuster.png">
+
+# Finalized Repertory Grid 
+
+<img alt="Repertory Grid Version 3 with weights" src= "../img/weightedCluster.png">
 
 # Discussion
-Put content from Discussion section in paper here
 
-Will likely want to replace our following progress report with more interesting content from the paper.
-Will want to consider how much time we have to present.
+* 'Fun' is hard to define and makes game development that much more confusing.
+
+* Creativity is nutured differently in the games industry
+
+* Implications for further user studies with games development 
+
+# Future Work 
+
+<img alt ="Future Work Repertory Grid Comparing General Software Development to Game Development" src ="../img/CSC510Grid2.png">
+
+* Define the many ways that software development compares to games development
+* Qualitative comparision and implies that there are multiple ways that development can be approached to achieve a product
+* Similar analysis to compare the amount of research approached in other software fields
+
 
 # Milestones
 
 * Identify key articles -- FINISHED
 * Identify relevant articles referenced in key articles -- FINISHED
 * Create first version of repertory grid -- FINISHED
-* Outline -- we want to have an outline of our paper done by March 20. Lists sections and main goals of each section.
-* Finalize repertory grid for paper comparison by March 21. Requires reading through all papers and identifying dimensions.
-* Full paper draft by March 28. Must have full content for every section but does not need to be polished.
-* Finalize and submit paper by March 31
-
-#Project Progress
-
-* During this first stage we have generated 2 grids with an online tool:
-* This first indicates the comparison of our seed papers
-
-<img align=center src="../img/CSC510Grid1.png">
-
-#Project Progress 
- 
-* The second grid demonstrates the comparison found between Software Developers and Game Developers
-
-<img align=center src="../img/CSC510Grid2.png">
-
-* Since these diagrams have been created the first grid has expanded as our literature review has spread.
-* We will revisit the comparison of the developer grid upon the end of the project.
-
+* Outline -- we want to have an outline of our paper done by March 20. Lists sections and main goals of each section. -- FINISHED
+* Finalize repertory grid for paper comparison by March 21. Requires reading through all papers and identifying dimensions. -- FINISHED
+* Full paper draft by March 28. Must have full content for every section but does not need to be polished. -- FINISHED
+* Finalize and submit paper by March 31 -- FINISHED
 
 # Bad Smells
 
@@ -149,11 +199,66 @@ Will want to consider how much time we have to present.
 * One person dominated GitHub contributions for a portion of the project but not the entire project (maybe something was wrong but they resolved the issue. Still may have caused problems)
 * If following a numerical process with labels, it is bad if issues skip any of the steps
 
-#References
  
-Tracy Hall, Sarah Beecham, David Bowes, David Gray, and Steve Counsell. 2012. A Systematic Literature Review on Fault Prediction Performance in Software Engineering. IEEE Trans. Softw. Eng. 38, 6 (November 2012), 1276-1304.
+# References
+ 
+[1]: Tracy Hall, Sarah Beecham, David Bowes, David Gray, and Steve Counsell. 2012. A Systematic Literature Review on Fault Prediction Performance in Software Engineering. IEEE Trans. Softw. Eng. 38, 6 (November 2012), 1276-1304.
 
-Barbara Kitchenham, O. Pearl Brereton, David Budgen, Mark Turner, John Bailey, and Stephen Linkman. 2009. Systematic literature reviews in software engineering - A systematic literature review. Inf. Softw. Technol. 51, 1 (January 2009), 7-15.
+[2]: Barbara Kitchenham, O. Pearl Brereton, David Budgen, Mark Turner, John Bailey, and Stephen Linkman. 2009. Systematic literature reviews in software engineering - A systematic literature review. Inf. Softw. Technol. 51, 1 (January 2009), 7-15.
 
-Budgen, D., Burn, A. J., Brereton, O. P., Kitchenham, B. A. and Pretorius, R. (2011), Empirical evidence about the UML: a systematic literature review. Softw: Pract. Exper., 41: 363–392. doi: 10.1002/spe.1009
+[3]: Budgen, D., Burn, A. J., Brereton, O. P., Kitchenham, B. A. and Pretorius, R. (2011), Empirical evidence about the UML: a systematic literature review. Softw: Pract. Exper., 41: 363–392. doi: 10.1002/spe.1009
+
+[4]: Emerson Murphy-Hill, Thomas Zimmermann, Nachiappan Nagappan. Cowboys, Ankle Sprains, and Keepers of Quality: How Is Video Game Development Different from Software Development?. In Proceedings of the 36th International Conference on Software Engineering (ICSE 2014), Hyderabad, India, June 2014.
+
+[5]: Menzies, Tim and Pearce, Adrian and Heinze, Clinton and Goss, Simon. What is an agent and why should I care? Appears in Formal Approaches to Agent-Based Systems, 2003, 1-14
+
+[6]: YASUNORI BABA and F. TED TSCHANG, PRODUCT DEVELOPMENT IN JAPANESE TV GAME SOFTWARE: THE CASE OF AN INNOVATIVE GAME. Int. J. Innov. Mgt. 05, 487 (2001). DOI: 10.1142/S1363919601000464
+
+[7]:  J. Blow, "Game Development: Harder Than You Think," IEEE Software, pp. 28-37, February 2004
+
+[8]: WHITSON, J.. The 'Console Ship is Sinking' and What this Means for Indies. Loading..., North America, 7, dec. 2012. Available at: http://journals.sfu.ca/loading/index.php/loading/article/view/125. Date accessed: 01 Apr. 2015.
+
+[9]: International Game Developers Association. Quality of Life in the Game Industry: Challenges and Best Practices. Published online April 20, 2004.
+
+[10]: Beck, K., Beedle, M., van Bennekum, A., Cockburn, A., Cunningham, W., Fowler, M., ... & Thomas, D. (2001). The agile manifesto.
+
+[11]: Parnin, C. (2013, September). Programmer, interrupted. In Visual Languages and Human-Centric Computing (VL/HCC), 2013 IEEE Symposium on (pp. 171-172). IEEE.
+
+[12]: Vasilescu, B., Capiluppi, A., & Serebrenik, A. (2012, December). Gender, representation and online participation: A quantitative study of StackOverflow. In Social Informatics (SocialInformatics), 2012 International Conference on (pp. 332-338). IEEE.
+
+[13]: Parnin, C. (2010). A cognitive neuroscience perspective on memory for programming tasks. Programming Interest Group, 27.
+
+[14]: Prensky, M. (2001). Fun, play and games: What makes games engaging. Digital game-based learning, 5, 1-05.
+
+[15]: Pearson, D. (2010). Hello Games’ Sean Murray interview. Gamesindustry.biz. Retrieved
+December 20, 2010, from http://www.gamesindustry.biz/articles/2010-10-12-hello-seaninterview?page=2
+
+[16]: Remo, C. (2010). Developers claim 13 weeks of crunch per year. Gamasutra. Retrieved June 2,
+2010, from
+http://www.gamasutra.com/view/news/28669/Study_Developers_Claim_13_Weeks_Of_
+Crunch_Per_Year.php
+
+[17]: Parkin, S. (2010). Double Fine’s Schafer on “amnesia fortnights” and the pitfalls of AAA.
+Gamasutra. Retrieved July 15, 2010, from
+http://www.gamasutra.com/view/news/29450/Develop_Double_Fines_Schafer_On_Amn
+esia_Fortnights_And_The_Pitfalls_Of_AAA.php
+
+[18]: Crossley, R. (2011b). Can crowdsourcing revolutionise indie funding? Develop. Retrieved
+January 28, 2011, from http://www.develop-online.net/news/36880/Can-crowdsourcingrevolutionise-indie-funding
+
+[19]: Marsh, T. (2011). Serious games continuum: Between games for purpose and experiential environments for purpose. Entertainment Computing, 2(2), 61-68.
+
+[20]: Kanode, C. M., & Haddad, H. M. (2009, April). Software engineering challenges in game development. In Information Technology: New Generations, 2009. ITNG'09. Sixth International Conference on (pp. 260-265). IEEE.
+
+[21]: Van der Graaf, S. (2012). Get Organized At Work! A Look Inside the Game Design Process of Valve and Linden Lab. Bulletin of Science, Technology & Society, 0270467612469079.
+
+[22]: Petrillo, F., & Pimenta, M. (2010, September). Is agility out there?: agile practices in game development. In Proceedings of the 28th ACM International Conference on Design of Communication (pp. 9-15). ACM.
+
+[23]: Tschang, F. T. (2005). Videogames as interactive experiential products and their manner of development. International Journal of Innovation Management, 9(01), 103-131.
+
+[24]: Callele, D., Neufeld, E., & Schneider, K. (2005, August). Requirements engineering and the creative process in the video game industry. In Requirements Engineering, 2005. Proceedings. 13th IEEE International Conference on (pp. 240-250). IEEE.
+
+[25]: David vs. GoliathVille: A Call to Arms for Indie Social Game Designers. (n.d.). Retrieved April 2, 2015, from https://www.scribd.com/doc/41760328/David-vs-GoliathVille-A-Call-to-Arms-for-Indie-Social-Game-Designers
+
+[26]: A. J. Ko, B. A. Myers, and H. H. Aung. Six learning barriers in enduser programming systems. In Visual Languages and Human Centric Computing, 2004 IEEE Symposium on, pages 199–206. IEEE, 2004.
 
