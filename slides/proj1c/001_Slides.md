@@ -103,7 +103,6 @@ These papers were extremely important. We reviewed the references of all of thes
 
 # Grid Iterations - Stage 1
 
-
 # Grid Interactions - Stage 2
 
 # Grid Interactions - Stage 3
@@ -148,11 +147,31 @@ The pressures of crunch while on the job, maintaining a stable job, and the desi
 
  Traditonal funding sources( Venture Capitalists) and Crowdfunding
 
+# Weighted Dimensions
+
+* Weight adjustment tool
+
+![Image of the Weight Adjustment Tool](https://github.com/FrustratedGameDev/Papers/blob/master/Grid/WeightAdjuster.png)
+
+# Finalized Repertory Grid 
+
+![Repertory Grid Version 3 with weights](https://github.com/FrustratedGameDev/Papers/blob/master/Grid/weightedCluster.png)
+
 # Discussion
-Put content from Discussion section in paper here
+
+- Put content from Discussion section in p
 
 Will likely want to replace our following progress report with more interesting content from the paper.
 Will want to consider how much time we have to present.
+
+
+# Future Work 
+
+![Future Work Repertory Grid Comparing General Software Development to Game Development](https://github.com/FrustratedGameDev/Papers/blob/master/Grid/CSC510Grid2.png)
+
+* Define the many ways that software development compares to games development
+* Qualitative comparision and implies that there are multiple ways that development can be approached to achieve a product
+* Similar analysis to compare the amount of research approached in other software fields
 
 # Milestones
 
