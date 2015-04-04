@@ -103,78 +103,92 @@ These papers were extremely important. We reviewed the references of all of thes
 
 # Grid Iterations - Stage 1
 
+<img alt= "Repertory Grid Round" src= "../img/FinalRepGrid_0323_02.png">
 
 # Grid Interactions - Stage 2
 
+<img alt= "Repertory Grid Round 2" src= "../img/cluster_v2.png">
+
 # Grid Interactions - Stage 3
+
+<img alt ="Repertory Grid Version 3 without weights" src="../img/cluster_v3.png">
 
 # Dimensions Defined
 
-	* <i>Requirement Volatility:</i> Requirement volatility describes how often the requirements of a project change. 
+* Requirement Volatility: 
 
-	* <i>Quality of Life:</i> This dimension outlines the general lifestyle of developers. The pressures of crunch while on the job, maintaining a stable job, and the desire to remain at the company all can be encompassed into the quality of life in this career.
+ Requirement volatility describes how often the requirements of a project change. 
 
-* Creativity: Creativity refers to the encouragement of developers to start from scratch with a project versus building on top of a current codebase. 
+* Quality of Life: 
 
-* Developer Motivation
+The pressures of crunch while on the job, maintaining a stable job, and the desire to remain at the company all can be encompassed into the quality of life in this career.
 
-   With every profession there are certain aspects that draw interest. 
+* Creativity: 
+	
+ Creativity refers to the encouragement of developers to start from scratch with a project versus building on top of a current codebase. 
+
+* Developer Motivation:
+
+ With every profession there are certain aspects that draw interest. 
    
-
 # Dimension Defined (cont.)
 
-* User Interactions
+* User Interactions:
 
-   The interactions of the users of the product can change the approach of how the product is approached. 
+ The interactions of the users of the product can change the approach of how the product is approached. 
 
-* Work Ownership
+* Work Ownership:
       
-   As a developer, it feels good to be acknowledged for the hardwork, responsibility, and accountability that is put into a product. 
+ It feels good to be acknowledged for the hardwork, responsibility, and accountability that is put into a product. 
    
-* Testing
+* Testing:
  
-   During the process of the literature review it was found that there are circumstances where products have little to no documented testing strategy. 
+ There are circumstances where products have little to no documented testing strategy. 
+	
+* Team composition:
 
-* Team composition
+(1)the variation of interactions between the team, (2)the viscosity , and (3)the number of projects a team may handle. 
 
-   There are many aspects of a team that are covered in this dimension: (1) the variation of interactions between the team, (2) the viscosity , and (3) the number of projects a team may handle. These apects of a team have been defined on a spectrum of being dynamic to static. 
+* Autonomy for Funding:
 
-* Autonomy for Funding
+ Traditonal funding sources( Venture Capitalists) and Crowdfunding
 
-   The traditional funding source for projects has been funding from venture captilalists and other investors who are intersted in receiving some return from the product such as being a valued stakeholder of the company. 
+# Weighted Dimensions
+
+* Weight adjustment tool
+
+<img alt="Image of the Weight Adjustment Tool" src="../img/WeightAdjuster.png">
+
+# Finalized Repertory Grid 
+
+<img alt="Repertory Grid Version 3 with weights" src= "../img/weightedCluster.png">
 
 # Discussion
-Put content from Discussion section in paper here
 
-Will likely want to replace our following progress report with more interesting content from the paper.
-Will want to consider how much time we have to present.
+* 'Fun' is hard to define and makes game development that much more confusing.
+
+* Creativity is nutured differently in the games industry
+
+* Implications for further user studies with games development 
+
+# Future Work 
+
+<img alt ="Future Work Repertory Grid Comparing General Software Development to Game Development" src ="../img/CSC510Grid2.png">
+
+* Define the many ways that software development compares to games development
+* Qualitative comparision and implies that there are multiple ways that development can be approached to achieve a product
+* Similar analysis to compare the amount of research approached in other software fields
+
 
 # Milestones
 
 * Identify key articles -- FINISHED
 * Identify relevant articles referenced in key articles -- FINISHED
 * Create first version of repertory grid -- FINISHED
-* Outline -- we want to have an outline of our paper done by March 20. Lists sections and main goals of each section. - FINISHED
-* Finalize repertory grid for paper comparison by March 21. Requires reading through all papers and identifying dimensions. - FINISHED
-* Full paper draft by March 28. Must have full content for every section but does not need to be polished. - FINISHED
-* Finalize and submit paper by March 31 - FINISHED
-
-#Project Progress
-
-* During this first stage we have generated 2 grids with an online tool:
-* This first indicates the comparison of our seed papers
-
-<img align=center src="../img/CSC510Grid1.png">
-
-#Project Progress 
- 
-* The second grid demonstrates the comparison found between Software Developers and Game Developers
-
-<img align=center src="../img/CSC510Grid2.png">
-
-* Since these diagrams have been created the first grid has expanded as our literature review has spread.
-* We will revisit the comparison of the developer grid upon the end of the project.
-
+* Outline -- we want to have an outline of our paper done by March 20. Lists sections and main goals of each section. -- FINISHED
+* Finalize repertory grid for paper comparison by March 21. Requires reading through all papers and identifying dimensions. -- FINISHED
+* Full paper draft by March 28. Must have full content for every section but does not need to be polished. -- FINISHED
+* Finalize and submit paper by March 31 -- FINISHED
 
 # Bad Smells
 
