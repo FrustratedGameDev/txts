@@ -135,19 +135,19 @@ These papers were extremely important. We reviewed the references of all of thes
 
 * Work Ownership:
       
-   As a developer, it feels good to be acknowledged for the hardwork, responsibility, and accountability that is put into a product. 
+   It feels good to be acknowledged for the hardwork, responsibility, and accountability that is put into a product. 
    
 * Testing:
  
-   During the process of the literature review it was found that there are circumstances where products have little to no documented testing strategy. 
+	There are circumstances where products have little to no documented testing strategy. 
 
 * Team composition:
 
-   There are many aspects of a team that are covered in this dimension: (1) the variation of interactions between the team, (2) the viscosity , and (3) the number of projects a team may handle. These apects of a team have been defined on a spectrum of being dynamic to static. 
+   (1) the variation of interactions between the team, (2) the viscosity , and (3) the number of projects a team may handle. These apects of a team have been defined on a spectrum of being dynamic to static. 
 
 * Autonomy for Funding:
 
-   The traditional funding source for projects has been funding from venture captilalists and other investors who are intersted in receiving some return from the product such as being a valued stakeholder of the company. 
+   Traditonal funding sources( Venture Capitalists) and Crowdfunding
 
 # Discussion
 Put content from Discussion section in paper here
