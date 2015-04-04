@@ -110,15 +110,18 @@ These papers were extremely important. We reviewed the references of all of thes
 
 # Dimensions Defined
 
-	* <i>Requirement Volatility:</i> Requirement volatility describes how often the requirements of a project change. 
+	Requirement Volatility: 
+	Requirement volatility describes how often the requirements of a project change. 
 
-	* <i>Quality of Life:</i> This dimension outlines the general lifestyle of developers. The pressures of crunch while on the job, maintaining a stable job, and the desire to remain at the company all can be encompassed into the quality of life in this career.
+	Quality of Life: 
+	This dimension outlines the general lifestyle of developers. The pressures of crunch while on the job, maintaining a stable job, and the desire to remain at the company all can be encompassed into the quality of life in this career.
 
-* Creativity: Creativity refers to the encouragement of developers to start from scratch with a project versus building on top of a current codebase. 
+	Creativity: 
+	Creativity refers to the encouragement of developers to start from scratch with a project versus building on top of a current codebase. 
 
-* Developer Motivation
+	Developer Motivation:
 
-   With every profession there are certain aspects that draw interest. 
+   	With every profession there are certain aspects that draw interest. 
    
 
 # Dimension Defined (cont.)
