@@ -165,7 +165,11 @@ The pressures of crunch while on the job, maintaining a stable job, and the desi
 
 # Discussion
 
-*
+* 'Fun' is hard to define and makes game development that much more confusing.
+
+* Creativity is nutured differently in the games industry
+
+* Implications for further user studies with games development 
 
 # Future Work 
 
@@ -174,6 +178,7 @@ The pressures of crunch while on the job, maintaining a stable job, and the desi
 * Define the many ways that software development compares to games development
 * Qualitative comparision and implies that there are multiple ways that development can be approached to achieve a product
 * Similar analysis to compare the amount of research approached in other software fields
+
 
 # Milestones
 
