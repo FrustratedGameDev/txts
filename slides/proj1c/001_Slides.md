@@ -165,7 +165,11 @@ The pressures of crunch while on the job, maintaining a stable job, and the desi
 
 # Discussion
 
-*
+* 'Fun' is hard to define and makes game development that much more confusing.
+
+* Creativity is nutured differently in the games industry
+
+* Implications for further user studies with games development 
 
 # Future Work 
 
@@ -175,32 +179,16 @@ The pressures of crunch while on the job, maintaining a stable job, and the desi
 * Qualitative comparision and implies that there are multiple ways that development can be approached to achieve a product
 * Similar analysis to compare the amount of research approached in other software fields
 
+
 # Milestones
 
 * Identify key articles -- FINISHED
 * Identify relevant articles referenced in key articles -- FINISHED
 * Create first version of repertory grid -- FINISHED
-* Outline -- we want to have an outline of our paper done by March 20. Lists sections and main goals of each section. - FINISHED
-* Finalize repertory grid for paper comparison by March 21. Requires reading through all papers and identifying dimensions. - FINISHED
-* Full paper draft by March 28. Must have full content for every section but does not need to be polished. - FINISHED
-* Finalize and submit paper by March 31 - FINISHED
-
-#Project Progress
-
-* During this first stage we have generated 2 grids with an online tool:
-* This first indicates the comparison of our seed papers
-
-<img align=center src="../img/CSC510Grid1.png">
-
-#Project Progress 
- 
-* The second grid demonstrates the comparison found between Software Developers and Game Developers
-
-<img align=center src="../img/CSC510Grid2.png">
-
-* Since these diagrams have been created the first grid has expanded as our literature review has spread.
-* We will revisit the comparison of the developer grid upon the end of the project.
-
+* Outline -- we want to have an outline of our paper done by March 20. Lists sections and main goals of each section. -- FINISHED
+* Finalize repertory grid for paper comparison by March 21. Requires reading through all papers and identifying dimensions. -- FINISHED
+* Full paper draft by March 28. Must have full content for every section but does not need to be polished. -- FINISHED
+* Finalize and submit paper by March 31 -- FINISHED
 
 # Bad Smells
 
