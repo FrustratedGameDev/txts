@@ -190,23 +190,6 @@ The pressures of crunch while on the job, maintaining a stable job, and the desi
 * Full paper draft by March 28. Must have full content for every section but does not need to be polished. -- FINISHED
 * Finalize and submit paper by March 31 -- FINISHED
 
-#Project Progress
-
-* During this first stage we have generated 2 grids with an online tool:
-* This first indicates the comparison of our seed papers
-
-<img align=center src="../img/CSC510Grid1.png">
-
-#Project Progress 
- 
-* The second grid demonstrates the comparison found between Software Developers and Game Developers
-
-<img align=center src="../img/CSC510Grid2.png">
-
-* Since these diagrams have been created the first grid has expanded as our literature review has spread.
-* We will revisit the comparison of the developer grid upon the end of the project.
-
-
 # Bad Smells
 
 * Labels are applied and immediately removed from an issue
