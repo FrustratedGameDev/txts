@@ -105,7 +105,45 @@ These papers were extremely important. We reviewed the references of all of thes
 Talk about the progression of the grid here.
 
 # Dimensions Defined
-Talk about dimensions here 
+
+ *Requirement Volatility
+
+   Requirement volatility describes how often the requirements of a project change. 
+
+* Quality of Life
+
+   This dimension outlines the general lifestyle of developers. The pressures of crunch while on the job, maintaining a stable job, and the desire to remain at the company all can be encompassed into the quality of life in this career.
+
+* Creativity 
+   
+   Creativity refers to the encouragement of developers to start from scratch with a project versus building on top of a current codebase. 
+
+* Developer Motivation
+
+   With every profession there are certain aspects that draw interest. 
+   
+
+# Dimension Defined (cont.)
+
+* User Interactions
+
+   The interactions of the users of the product can change the approach of how the product is approached. 
+
+* Work Ownership
+      
+   As a developer, it feels good to be acknowledged for the hardwork, responsibility, and accountability that is put into a product. 
+   
+* Testing
+ 
+   During the process of the literature review it was found that there are circumstances where products have little to no documented testing strategy. 
+
+* Team composition
+
+   There are many aspects of a team that are covered in this dimension: (1) the variation of interactions between the team, (2) the viscosity , and (3) the number of projects a team may handle. These apects of a team have been defined on a spectrum of being dynamic to static. 
+
+* Autonomy for Funding
+
+   The traditional funding source for projects has been funding from venture captilalists and other investors who are intersted in receiving some return from the product such as being a valued stakeholder of the company. 
 
 # Discussion
 Put content from Discussion section in paper here
