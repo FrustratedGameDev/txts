@@ -247,3 +247,4 @@ January 28, 2011, from http://www.develop-online.net/news/36880/Can-crowdsourcin
 [25]: David vs. GoliathVille: A Call to Arms for Indie Social Game Designers. (n.d.). Retrieved April 2, 2015, from https://www.scribd.com/doc/41760328/David-vs-GoliathVille-A-Call-to-Arms-for-Indie-Social-Game-Designers
 
 [26]: A. J. Ko, B. A. Myers, and H. H. Aung. Six learning barriers in enduser programming systems. In Visual Languages and Human Centric Computing, 2004 IEEE Symposium on, pages 199–206. IEEE, 2004.
+
