@@ -147,7 +147,7 @@ The pressures of crunch while on the job, maintaining a stable job, and the desi
 	
 * Team composition:
 
-(1) the variation of interactions between the team, (2) the viscosity , and (3) the number of projects a team may handle. 
+(1)the variation of interactions between the team, (2)the viscosity , and (3)the number of projects a team may handle. 
 
 * Autonomy for Funding:
 
