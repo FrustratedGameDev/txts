@@ -103,15 +103,15 @@ These papers were extremely important. We reviewed the references of all of thes
 
 # Grid Iterations - Stage 1
 
-![Repertory Grid Round 1](https://github.com/FrustratedGameDev/Papers/blob/master/Grid/FinalRepGrid_0323_02.png)
+<img alt= "Repertory Grid Round" src= "../img/FinalRepGrid_0323_02.png">
 
 # Grid Interactions - Stage 2
 
-![Repertory Grid Round 2](https://github.com/FrustratedGameDev/Papers/blob/master/Grid/cluster_v2.png)
+<img alt= "Repertory Grid Round 2" src= "../img/cluster_v2.png">
 
 # Grid Interactions - Stage 3
 
-![Repertory Grid Version 3 without weights](https://github.com/FrustratedGameDev/Papers/blob/master/Grid/cluster_v3.png)
+<img alt ="Repertory Grid Version 3 without weights" src="../img/cluster_v3.png">
 
 # Dimensions Defined
 
@@ -157,11 +157,11 @@ The pressures of crunch while on the job, maintaining a stable job, and the desi
 
 * Weight adjustment tool
 
-![Image of the Weight Adjustment Tool](https://github.com/FrustratedGameDev/Papers/blob/master/Grid/WeightAdjuster.png)
+<img alt="Image of the Weight Adjustment Tool" src="../img/WeightAdjuster.png">
 
 # Finalized Repertory Grid 
 
-![Repertory Grid Version 3 with weights](https://github.com/FrustratedGameDev/Papers/blob/master/Grid/weightedCluster.png)
+<img alt="Repertory Grid Version 3 with weights" src= "../img/weightedCluster.png">
 
 # Discussion
 
@@ -169,7 +169,7 @@ The pressures of crunch while on the job, maintaining a stable job, and the desi
 
 # Future Work 
 
-![Future Work Repertory Grid Comparing General Software Development to Game Development](https://github.com/FrustratedGameDev/Papers/blob/master/Grid/CSC510Grid2.png)
+<img alt ="Future Work Repertory Grid Comparing General Software Development to Game Development" src ="../img/CSC510Grid2.png">
 
 * Define the many ways that software development compares to games development
 * Qualitative comparision and implies that there are multiple ways that development can be approached to achieve a product
