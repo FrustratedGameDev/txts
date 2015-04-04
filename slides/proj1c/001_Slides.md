@@ -101,22 +101,20 @@ These papers were extremely important. We reviewed the references of all of thes
 
 <img align=center src="../img/issuelabels.png">
 
-# Grid Iterations
-Talk about the progression of the grid here.
+# Grid Iterations - Stage 1
+
+
+# Grid Interactions - Stage 2
+
+# Grid Interactions - Stage 3
 
 # Dimensions Defined
 
- *Requirement Volatility
+	* <i>Requirement Volatility:</i> Requirement volatility describes how often the requirements of a project change. 
 
-   Requirement volatility describes how often the requirements of a project change. 
+	* <i>Quality of Life:</i> This dimension outlines the general lifestyle of developers. The pressures of crunch while on the job, maintaining a stable job, and the desire to remain at the company all can be encompassed into the quality of life in this career.
 
-* Quality of Life
-
-   This dimension outlines the general lifestyle of developers. The pressures of crunch while on the job, maintaining a stable job, and the desire to remain at the company all can be encompassed into the quality of life in this career.
-
-* Creativity 
-   
-   Creativity refers to the encouragement of developers to start from scratch with a project versus building on top of a current codebase. 
+* Creativity: Creativity refers to the encouragement of developers to start from scratch with a project versus building on top of a current codebase. 
 
 * Developer Motivation
 
@@ -156,10 +154,10 @@ Will want to consider how much time we have to present.
 * Identify key articles -- FINISHED
 * Identify relevant articles referenced in key articles -- FINISHED
 * Create first version of repertory grid -- FINISHED
-* Outline -- we want to have an outline of our paper done by March 20. Lists sections and main goals of each section.
-* Finalize repertory grid for paper comparison by March 21. Requires reading through all papers and identifying dimensions.
-* Full paper draft by March 28. Must have full content for every section but does not need to be polished.
-* Finalize and submit paper by March 31
+* Outline -- we want to have an outline of our paper done by March 20. Lists sections and main goals of each section. - FINISHED
+* Finalize repertory grid for paper comparison by March 21. Requires reading through all papers and identifying dimensions. - FINISHED
+* Full paper draft by March 28. Must have full content for every section but does not need to be polished. - FINISHED
+* Finalize and submit paper by March 31 - FINISHED
 
 #Project Progress
 
