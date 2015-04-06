@@ -38,7 +38,9 @@
 4. Define key articles
 
 # 1: Seed Papers
-List them here
+
+1. Cowboys, Ankle Sprains, and Keepers of Quality: How Is Video Game Development Different from Software Development? (E. Murphy-Hill et al.)
+2. Game Development: Harder Than You Think (J. Blow)
 
 # 2: Determine relevant papers
 We used the following relevancy rules:
