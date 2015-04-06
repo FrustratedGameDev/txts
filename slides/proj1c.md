@@ -8,17 +8,6 @@
 * How do these frustrations stunt productivity?
 * What is being done to solve them?
 
-# What did the Management Track people have to do?
-
-* The goal of this project is to identify and compare General Software Developement to Games Development.
-* To do this we found problems, approaches, contributions, related work that discussed distinctive characteristics about both.
-* The recommended way to do connect all papers under some common themes was to use a Repertory Grid Analysis.
-* Repertory Grid Analysis - uses factor analysis to determine interpretations of an item.
-
-<img width=100% src="https://raw.githubusercontent.com/FrustratedGameDev/Papers/master/Grid/weightedCluster.png">
-
-* Factors included papers that discussed Software Development in the games industry
-
 # Motivation
 * We wanted better understanding of this area
 * Current work lacking on qualitative lifestyle
