@@ -63,13 +63,6 @@ These papers were extremely important. We reviewed the references of all of thes
 * International Game Developers Association. (2004). Quality of life white paper
 
 # Issue Labels
-0. Determine if relevant
-1. Relevant Paper
-2. Summarize
-3. Adds Dimension
-4. Dimesion added to grid
-
-* In our github repo we used a set of tags to identify what stage we were in for the literature review as it relates to that paper.
 
 <img align=center src="https://raw.githubusercontent.com/FrustratedGameDev/Papers/master/Grid/issuelabels.png">
 
