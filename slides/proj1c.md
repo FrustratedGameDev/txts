@@ -38,7 +38,7 @@
 	* A dimension was only added if it added value to the dataset already available.
 * Each column identifies an attribute which in this case is the names of the relevant papers.
 
-![Repgrid](https://raw.githubusercontent.com/FrustratedGameDev/Papers/master/Grid/weightedCluster.png)
+<img width=100% src="https://raw.githubusercontent.com/FrustratedGameDev/Papers/master/Grid/weightedCluster.png">
 
 
 # Methodology
@@ -102,15 +102,15 @@ These papers were extremely important. We reviewed the references of all of thes
 
 # Grid Iterations - Stage 1
 
-![Stage 1](https://raw.githubusercontent.com/FrustratedGameDev/Papers/master/Grid/FinalRepGrid_0323_02.png)
+<img width=100% src="https://raw.githubusercontent.com/FrustratedGameDev/Papers/master/Grid/FinalRepGrid_0323_02.png">
 
 # Grid Interactions - Stage 2
 
-![Stage 2](https://raw.githubusercontent.com/FrustratedGameDev/Papers/master/Grid/cluster_v2.png)
+<img width=100% src="https://raw.githubusercontent.com/FrustratedGameDev/Papers/master/Grid/cluster_v2.png">
 
 # Grid Interactions - Stage 3
 
-![Stage 3](https://raw.githubusercontent.com/FrustratedGameDev/Papers/master/Grid/cluster_v3.png)
+<img width=100% src="https://raw.githubusercontent.com/FrustratedGameDev/Papers/master/Grid/cluster_v3.png">
 
 # Dimensions Defined
 
@@ -153,7 +153,7 @@ The pressures of crunch while on the job, maintaining a stable job, and the desi
 
 # Finalized Repertory Grid 
 
-![Final Grid](https://raw.githubusercontent.com/FrustratedGameDev/Papers/master/Grid/weightedCluster.png)
+<img width=100% src="https://raw.githubusercontent.com/FrustratedGameDev/Papers/master/Grid/weightedCluster.png">
 
 # Discussion
 
