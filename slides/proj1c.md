@@ -22,12 +22,10 @@
 # Repertory Grid Analysis
 
 * Repertory Grid Analysis - uses factor analysis to determine interpretations of an item.
-
 * Each row of this grid identifies a dimension that was found while reading the papers.
-	* A dimension was only added if it added value to the dataset already available.
 * Each column identifies an attribute which in this case is the names of the relevant papers.
 
-<img width=100% src="https://raw.githubusercontent.com/FrustratedGameDev/Papers/master/Grid/weightedCluster.png">
+<img width=95% src="https://raw.githubusercontent.com/FrustratedGameDev/Papers/master/Grid/weightedCluster.png">
 
 
 # Methodology
