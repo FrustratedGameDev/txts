@@ -16,7 +16,7 @@
 * Repertory Grid Analysis - uses factor analysis to determine interpretations of an item.
 
 
-<img align="center" src="../img/repgrid.png" alt="Picture of repgrid">
+![Repgrid](https://raw.githubusercontent.com/FrustratedGameDev/Papers/master/Grid/weightedCluster.png)
 
 * Factors included papers that discussed Software Development in the games industry
 
@@ -39,7 +39,7 @@
 	* A dimension was only added if it added value to the dataset already available.
 * Each column identifies an attribute which in this case is the names of the relevant papers.
 
- <img src= "../img/repgrid3.png">
+![Repgrid](https://raw.githubusercontent.com/FrustratedGameDev/Papers/master/Grid/weightedCluster.png)
 
 
 # Methodology
@@ -103,15 +103,15 @@ These papers were extremely important. We reviewed the references of all of thes
 
 # Grid Iterations - Stage 1
 
-<img alt= "Repertory Grid Round" src= "../img/FinalRepGrid_0323_02.png">
+![Stage 1](https://raw.githubusercontent.com/FrustratedGameDev/Papers/master/Grid/FinalRepGrid_0323_02.png)
 
 # Grid Interactions - Stage 2
 
-<img alt= "Repertory Grid Round 2" src= "../img/cluster_v2.png">
+![Stage 2](https://raw.githubusercontent.com/FrustratedGameDev/Papers/master/Grid/cluster_v2.png)
 
 # Grid Interactions - Stage 3
 
-<img alt ="Repertory Grid Version 3 without weights" src="../img/cluster_v3.png">
+![Stage 3](https://raw.githubusercontent.com/FrustratedGameDev/Papers/master/Grid/cluster_v3.png)
 
 # Dimensions Defined
 
@@ -154,7 +154,7 @@ The pressures of crunch while on the job, maintaining a stable job, and the desi
 
 # Finalized Repertory Grid 
 
-<img alt="Repertory Grid Version 3 with weights" src= "../img/weightedCluster.png">
+![Final Grid](https://raw.githubusercontent.com/FrustratedGameDev/Papers/master/Grid/weightedCluster.png)
 
 # Discussion
 
