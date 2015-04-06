@@ -87,11 +87,11 @@ These papers were extremely important. We reviewed the references of all of thes
 
 <img width=100% src="https://raw.githubusercontent.com/FrustratedGameDev/Papers/master/Grid/FinalRepGrid_0323_02.png">
 
-# Grid Interactions - Stage 2
+# Grid Iterations - Stage 2
 
 <img width=100% src="https://raw.githubusercontent.com/FrustratedGameDev/Papers/master/Grid/cluster_v2.png">
 
-# Grid Interactions - Stage 3
+# Grid Iterations - Stage 3
 
 <img width=100% src="https://raw.githubusercontent.com/FrustratedGameDev/Papers/master/Grid/cluster_v3.png">
 
