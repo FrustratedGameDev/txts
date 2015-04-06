@@ -1,7 +1,7 @@
 % The Frustrated Game Developer
 % Denae Ford and Anthony Elliott
 % April 9, 2015
-<img align="right" src="http://www4.ncsu.edu/~dford3/images/projects/computer_punch.jpg">
+% <img align="right" src="http://www4.ncsu.edu/~dford3/images/projects/computer_punch.jpg">
 
 # Project Goals
 
