@@ -50,14 +50,6 @@ We used the following relevancy rules:
 3. Does the paper discuss some form of the challenges or stress encountered by developers?
 4. Does the paper provide results of some form?
 
-#Relevancy Rules 
-
-* In order to find articles a list of relevancy rules were determined:
-
-<img align=center src="../img/theprocess.png">
-
-* These rules were used as guidelines to determine what belonged in our repository
-
 # 3: Extract dimensions
 * Read abstracts
 * Read in depth
