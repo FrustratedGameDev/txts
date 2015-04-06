@@ -3,6 +3,7 @@
 % April 9, 2015
 
 # Project Goals
+<img align="right" src="http://www4.ncsu.edu/~dford3/images/projects/computer_punch.jpg">
 
 * Find literature on what frustrates game developers
 * How do these frustrations stunt productivity?
@@ -11,7 +12,7 @@
 
 
 # Motivation
-<img align="right" src="http://www4.ncsu.edu/~dford3/images/projects/computer_punch.jpg">
+<img align="right" src="http://richardggibson.appspot.com/static/images/game-dev.png">
 
 * We wanted better understanding of this area
 * Current work lacking on qualitative lifestyle
