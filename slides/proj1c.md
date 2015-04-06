@@ -11,11 +11,12 @@
 
 
 # Motivation
+<img align="right" src="http://www4.ncsu.edu/~dford3/images/projects/computer_punch.jpg">
 * We wanted better understanding of this area
 * Current work lacking on qualitative lifestyle
 * Where should future research efforts be applied?
 
-<img src="http://www4.ncsu.edu/~dford3/images/projects/computer_punch.jpg">
+
 
 # Literature Review
 * Collect lots of relevant papers
