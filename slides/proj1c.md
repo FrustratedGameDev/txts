@@ -64,15 +64,7 @@ These papers were extremely important. We reviewed the references of all of thes
 * The 'Console Ship is Sinking' and What this Means for Indies
 * International Game Developers Association. (2004). Quality of life white paper
 
-# Test Procedure
-
-* Relevant papers are collected in one spot
-* Repertory grid exists and is in GitHub repo
-* Repertory grid has lots of dimensions and papers
-* Process is documented using GitHub labels
-* GitHub milestones are used to track at least some progress
-
-#Issue Labels
+# Issue Labels
 0. Determine if relevant
 1. Relevant Paper
 2. Summarize
@@ -81,7 +73,7 @@ These papers were extremely important. We reviewed the references of all of thes
 
 * In our github repo we used a set of tags to identify what stage we were in for the literature review as it relates to that paper.
 
-<img align=center src="../img/issuelabels.png">
+<img align=center src="https://raw.githubusercontent.com/FrustratedGameDev/Papers/master/Grid/issuelabels.png">
 
 # Grid Iterations - Stage 1
 
@@ -132,7 +124,7 @@ The pressures of crunch while on the job, maintaining a stable job, and the desi
 
 * Weight adjustment tool
 
-<img alt="Image of the Weight Adjustment Tool" src="../img/WeightAdjuster.png">
+<img alt="Image of the Weight Adjustment Tool" src="https://raw.githubusercontent.com/FrustratedGameDev/Papers/master/Grid/WeightAdjuster.png">
 
 # Finalized Repertory Grid 
 
@@ -148,7 +140,7 @@ The pressures of crunch while on the job, maintaining a stable job, and the desi
 
 # Future Work 
 
-<img alt ="Future Work Repertory Grid Comparing General Software Development to Game Development" src ="../img/CSC510Grid2.png">
+<img alt ="Future Work Repertory Grid Comparing General Software Development to Game Development" src ="https://raw.githubusercontent.com/FrustratedGameDev/Papers/master/Grid/CSC510Grid2.png">
 
 * Define the many ways that software development compares to games development
 * Qualitative comparision and implies that there are multiple ways that development can be approached to achieve a product
