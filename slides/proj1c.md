@@ -15,8 +15,7 @@
 * The recommended way to do connect all papers under some common themes was to use a Repertory Grid Analysis.
 * Repertory Grid Analysis - uses factor analysis to determine interpretations of an item.
 
-
-![Repgrid](https://raw.githubusercontent.com/FrustratedGameDev/Papers/master/Grid/weightedCluster.png)
+<img width=100% src="https://raw.githubusercontent.com/FrustratedGameDev/Papers/master/Grid/weightedCluster.png">
 
 * Factors included papers that discussed Software Development in the games industry
 
