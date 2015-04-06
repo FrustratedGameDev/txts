@@ -1,9 +1,9 @@
 % The Frustrated Game Developer
 % Denae Ford and Anthony Elliott
 % April 9, 2015
+<img align="right" src="http://www4.ncsu.edu/~dford3/images/projects/computer_punch.jpg">
 
 # Project Goals
-<img align="right" src="http://www4.ncsu.edu/~dford3/images/projects/computer_punch.jpg">
 
 * Find literature on what frustrates game developers
 * How do these frustrations stunt productivity?
