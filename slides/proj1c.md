@@ -127,12 +127,12 @@ The pressures of crunch while on the job, maintaining a stable job, and the desi
 <img width=100% src="https://raw.githubusercontent.com/FrustratedGameDev/Papers/master/Grid/weightedCluster.png">
 
 # Discussion
-
+<img width=30% alt="What it's like to be a game programmer" src = "http://www.siliconrepublic.com/fs/img/being-a-game-developer.jpg">
 * 'Fun' is hard to define and makes game development that much more confusing.
 * Creativity is nutured differently in the games industry
 * Implications for further user studies with games development 
 
-<img alt="What it's like to be a game programmer" src = "http://www.siliconrepublic.com/fs/img/being-a-game-developer.jpg">
+
 
 # Future Work 
 
