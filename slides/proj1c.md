@@ -8,16 +8,21 @@
 * How do these frustrations stunt productivity?
 * What is being done to solve them?
 
+
+
 # Motivation
 * We wanted better understanding of this area
 * Current work lacking on qualitative lifestyle
 * Where should future research efforts be applied?
+
+<img src="http://www4.ncsu.edu/~dford3/images/projects/computer_punch.jpg">
 
 # Literature Review
 * Collect lots of relevant papers
 * Determine the important papers
 * Read
 * Analyze
+<img height=300px src="http://www.virtuallysorted.com/wp-content/uploads/2011/05/man-and-paper.jpg">
 
 # Repertory Grid Analysis
 
