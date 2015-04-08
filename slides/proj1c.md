@@ -77,7 +77,7 @@ These papers were extremely important. We reviewed the references of all of thes
 
 #Repertory Grid Tool
 
-<img align= center width=100% src="https://raw.githubusercontent.com/FrustratedGameDev/Papers/master/Grid/RGTScreenshot.png">
+<img align= center width=60% src="https://raw.githubusercontent.com/FrustratedGameDev/Papers/master/Grid/RGTScreenshot.png">
 
 # Grid Iterations - Stage 1
 
