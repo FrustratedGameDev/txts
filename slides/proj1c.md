@@ -75,6 +75,10 @@ These papers were extremely important. We reviewed the references of all of thes
 
 <img align=center src="https://raw.githubusercontent.com/FrustratedGameDev/Papers/master/Grid/issuelabels.png">
 
+#Repertory Grid Tool
+
+<img align= center width=100% src="https://raw.githubusercontent.com/FrustratedGameDev/Papers/master/Grid/RGTScreenshot.png">
+
 # Grid Iterations - Stage 1
 
 <img width=100% src="https://raw.githubusercontent.com/FrustratedGameDev/Papers/master/Grid/FinalRepGrid_0323_02.png">
@@ -133,7 +137,7 @@ The pressures of crunch while on the job, maintaining a stable job, and the desi
 # Discussion
 <img width=30% alt="What it's like to be a game programmer" align="right" src = "http://www.siliconrepublic.com/fs/img/being-a-game-developer.jpg">
 
-* 'Fun' is hard to define and makes game development that much more confusing.
+* 'Fun' is hard to define and makes game development that much more confusing
 * Creativity is nutured differently in the games industry
 * Implications for further user studies with games development 
 
