@@ -152,16 +152,6 @@ The pressures of crunch while on the job, maintaining a stable job, and the desi
 * Define the many ways that software development compares to games development
 * Qualitative comparision and implies that there are multiple ways that development can be approached to achieve a product
 * Similar analysis to compare the amount of research approached in other software fields
-
-# Milestones
-
-* Identify key articles -- FINISHED
-* Identify relevant articles referenced in key articles -- FINISHED
-* Create first version of repertory grid -- FINISHED
-* Outline -- we want to have an outline of our paper done by March 20. Lists sections and main goals of each section. -- FINISHED
-* Finalize repertory grid for paper comparison by March 21. Requires reading through all papers and identifying dimensions. -- FINISHED
-* Full paper draft by March 28. Must have full content for every section but does not need to be polished. -- FINISHED
-* Finalize and submit paper by March 31 -- FINISHED
  
 # References
  
