@@ -109,15 +109,15 @@ The pressures of crunch while on the job, maintaining a stable job, and the desi
 # Dimension Defined (cont.)
 
 * Autonomy for Funding:
- Traditonal funding sources( Venture Capitalists) and Crowdfunding. How the funding controld the company.
+ Traditonal funding sources( Venture Capitalists) and Crowdfunding. How the funding controls the product.
 
 * Testing:
- There are circumstances where products have little to no documented testing strategy. Phases of Testing
+ There are circumstances where products have little to no documented testing strategy. Phases of Testing.
 	
 * Team composition:
-	(1) the variation of interactions between the team
-	(2)the viscosity 
-	(3)the number of projects a team may handle. 
+1. the variation of interactions between the team
+2. the viscosity 
+3. the number of projects a team may handle
 
 # Weighted Dimensions
 
