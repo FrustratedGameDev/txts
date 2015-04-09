@@ -136,8 +136,6 @@ The pressures of crunch while on the job, maintaining a stable job, and the desi
 * Creativity is nutured differently in the games industry
 * Implications for further user studies with games development 
 
-
-
 # Future Work 
 
 <img alt ="Future Work Repertory Grid Comparing General Software Development to Game Development" src ="https://raw.githubusercontent.com/FrustratedGameDev/Papers/master/Grid/CSC510Grid2.png">
@@ -145,7 +143,6 @@ The pressures of crunch while on the job, maintaining a stable job, and the desi
 * Define the many ways that software development compares to games development
 * Qualitative comparision and implies that there are multiple ways that development can be approached to achieve a product
 * Similar analysis to compare the amount of research approached in other software fields
-
 
 # Milestones
 
@@ -156,16 +153,6 @@ The pressures of crunch while on the job, maintaining a stable job, and the desi
 * Finalize repertory grid for paper comparison by March 21. Requires reading through all papers and identifying dimensions. -- FINISHED
 * Full paper draft by March 28. Must have full content for every section but does not need to be polished. -- FINISHED
 * Finalize and submit paper by March 31 -- FINISHED
-
-# Bad Smells
-
-* Labels are applied and immediately removed from an issue
-* A milestone has no issues or few issues
-* A milestone was deleted (not able to finish the work in time?)
-* One person dominated GitHub contributions for the entire project (obviously something wrong here)
-* One person dominated GitHub contributions for a portion of the project but not the entire project (maybe something was wrong but they resolved the issue. Still may have caused problems)
-* If following a numerical process with labels, it is bad if issues skip any of the steps
-
  
 # References
  
