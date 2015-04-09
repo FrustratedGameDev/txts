@@ -34,9 +34,8 @@
 * Each row of this grid identifies a dimension that was found while reading the papers.
 * Each column identifies an attribute which in this case is the names of the relevant papers.
 * Each combination has a rating
-<img src="www4.ncsu.edu/~dford3/fruitmatrix">
 
-
+<img src="www4.ncsu.edu/~dford3/images/fruitmatrix.png">
 
 # Methodology
 
