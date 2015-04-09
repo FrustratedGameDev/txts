@@ -125,7 +125,7 @@ The pressures of crunch while on the job, maintaining a stable job, and the desi
 * Established that Requirement Volatility(25), Quality Of Life(21), Creativity(16), Developer Motivation(11) were very important
 * Autonomy of Funding(9), Testing(9), and Team Composition(9) were equally as important
 
-<img alt="Image of the Weight Adjustment Tool" width=150% src="https://raw.githubusercontent.com/FrustratedGameDev/Papers/master/Grid/WeightAdjuster.png">
+<img alt="Image of the Weight Adjustment Tool"  src="https://raw.githubusercontent.com/FrustratedGameDev/Papers/master/Grid/WeightAdjuster.png">
 
 # Finalized Repertory Grid 
 
