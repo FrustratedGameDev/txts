@@ -153,9 +153,6 @@ The pressures of crunch while on the job, maintaining a stable job, and the desi
 * Qualitative comparision and implies that there are multiple ways that development can be approached to achieve a product
 * Similar analysis to compare the amount of research approached in other software fields
 
-#
-
-<img alt="questions" width= 75% src="http://youniquelykari.com/wp-content/uploads/2014/10/any-questions.jpg">
 
 # References
  
