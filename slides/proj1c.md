@@ -104,25 +104,20 @@ The pressures of crunch while on the job, maintaining a stable job, and the desi
  Creativity refers to the encouragement of developers to start from scratch with a project versus building on top of a current codebase. 
 
 * Developer Motivation:
- With every profession there are certain aspects that draw interest. 
+ With every profession there are certain aspects that draw interest. Ex. Work Ownership, User Interaction
    
 # Dimension Defined (cont.)
 
+* Autonomy for Funding:
+ Traditonal funding sources( Venture Capitalists) and Crowdfunding. How the funding controld the company.
 
-* User Interactions:
- The interactions of the users of the product can change the approach of how the product is approached. 
-
-* Work Ownership:
- It feels good to be acknowledged for the hardwork, responsibility, and accountability that is put into a product. 
-   
 * Testing:
- There are circumstances where products have little to no documented testing strategy. 
+ There are circumstances where products have little to no documented testing strategy. Phases of Testing
 	
 * Team composition:
-(1)the variation of interactions between the team, (2)the viscosity , and (3)the number of projects a team may handle. 
-
-* Autonomy for Funding:
- Traditonal funding sources( Venture Capitalists) and Crowdfunding
+	(1) the variation of interactions between the team
+	(2)the viscosity 
+	(3)the number of projects a team may handle. 
 
 # Weighted Dimensions
 
