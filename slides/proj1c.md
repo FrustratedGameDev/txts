@@ -30,9 +30,10 @@
 
 # Repertory Grid Analysis
 
-* Repertory Grid Analysis - uses factor analysis to determine interpretations of an item.
+* Repertory Grid Analysis - an interview technique(factor analysis) to determine interpretations of a topic.
 * Each row of this grid identifies a dimension that was found while reading the papers.
 * Each column identifies an attribute which in this case is the names of the relevant papers.
+* Each combination has a rating
 
 <img width=95% src="https://raw.githubusercontent.com/FrustratedGameDev/Papers/master/Grid/weightedCluster.png">
 
