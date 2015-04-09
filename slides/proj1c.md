@@ -152,7 +152,11 @@ The pressures of crunch while on the job, maintaining a stable job, and the desi
 * Define the many ways that software development compares to games development
 * Qualitative comparision and implies that there are multiple ways that development can be approached to achieve a product
 * Similar analysis to compare the amount of research approached in other software fields
- 
+
+#
+
+<img alt="questions" width= 75% src="http://youniquelykari.com/wp-content/uploads/2014/10/any-questions.jpg">
+
 # References
  
 [1]: Tracy Hall, Sarah Beecham, David Bowes, David Gray, and Steve Counsell. 2012. A Systematic Literature Review on Fault Prediction Performance in Software Engineering. IEEE Trans. Softw. Eng. 38, 6 (November 2012), 1276-1304.
