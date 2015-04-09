@@ -136,6 +136,12 @@ The pressures of crunch while on the job, maintaining a stable job, and the desi
 * Creativity is nutured differently in the games industry
 * Implications for further user studies with games development 
 
+#Interesting Challenges
+
+* Defining our method to approach our literature review
+* Combining dimesnions: Dimensions have different interpretations to researchers
+* Difficulty in identifying throrough investigation of games industry
+
 # Future Work 
 
 <img alt ="Future Work Repertory Grid Comparing General Software Development to Game Development" src ="https://raw.githubusercontent.com/FrustratedGameDev/Papers/master/Grid/CSC510Grid2.png">
