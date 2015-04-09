@@ -138,6 +138,8 @@ The pressures of crunch while on the job, maintaining a stable job, and the desi
 
 #Interesting Challenges
 
+<img align="right" alt= "Challenge Accepted" src="http://image.t45ol.com/screenshot/big/8878.jpg">
+
 * Defining our method to approach our literature review
 * Combining dimesnions: Dimensions have different interpretations to researchers
 * Difficulty in identifying throrough investigation of games industry
