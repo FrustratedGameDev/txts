@@ -35,7 +35,7 @@
 * Each column identifies an attribute which in this case is the names of the relevant papers.
 * Each combination has a rating
 
-<img src="www4.ncsu.edu/~dford3/images/fruitmatrix.png">
+<img alt="Fruit Rep Example" src="https://raw.githubusercontent.com/FrustratedGameDev/Papers/master/Grid/fruitmatrix.png">
 
 # Methodology
 
